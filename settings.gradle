@@ -1,0 +1,2 @@
+rootProject.name = "Lombok Special Foods"
+include ':app'

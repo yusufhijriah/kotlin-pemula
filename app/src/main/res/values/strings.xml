@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lombok Special Foods</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+<!--    <string name="detail">Type</string>-->
+    <string name="profile">Profile</string>
+    <string name="detail">Detail</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="profil_img">Foto Profil View</string>
+    <string name="name">Muhammad Yusuf Hijriah</string>
+    <string name="email">Email : yusufhijriah19@gmail.com</string>
+    <string name="instagram">Instagram : yusuf_hijriah</string>
+    <string name="twitter">Twitter : hijriah_yusuf</string>
+</resources>
